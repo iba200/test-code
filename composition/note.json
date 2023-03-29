@@ -1,0 +1,54 @@
+francais = {
+    "matier" : "francais",
+    "devoir" : [15, 11],
+    "composition" : 10,
+    "coeff" : 4,
+}
+espaniol = {
+    "matier" : "espaniol",
+    "devoir" : [19, 10],
+    "composition" : 12,
+    "coeff" : 3
+}
+anglais = {
+    "matier" : "anglais",    
+    "devoir" : [15, 11],
+    "composition" : 10,
+    "coeff" : 3,
+}
+maths = {
+    "matier" : "maths",
+    "devoir" : [15, 11],
+    "composition" : 10,
+    "coeff" : 3,
+}
+svt = {
+    "matier" : "svt",
+    "devoir" : [15, 11],
+    "composition" : 10,
+    "coeff" : 2
+}
+pc = {
+    "matier" : "pc",
+    "devoir" : [15, 11],
+    "composition" : 10,
+    "coeff" : 2,
+}
+eg = {
+    "matier" : "economie generale",
+    "devoir" : [15, 11],
+    "composition" : 10,
+    "coeff" : 2
+}
+hg = {
+    "matier" : "histoire geographie",
+    "devoir" : [15, 11],
+    "composition" : 10,
+    "coeff" : 4
+}
+eps = {
+    "matier" : "EPS",
+    "devoir" : [15, 11],
+    "composition" : 10,
+    "coeff" : 1
+}
